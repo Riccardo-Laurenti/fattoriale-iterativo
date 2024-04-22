@@ -4,7 +4,7 @@ function fattorialeIter($num) {
 
     $fatt = 1;
 
-    if ($num <= 0 ||$num == 1 ) {
+    if ($num <= 1) {
 
         return 1;
 
